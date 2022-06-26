@@ -1,0 +1,7 @@
+{
+  "name": "collectme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
